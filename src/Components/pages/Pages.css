@@ -1,0 +1,11 @@
+.HomePage,
+.ServicesPage,
+.ProductsPage,
+.ContactUsPage,
+.SignUpPage {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 80vh;
+  background: #f3f3f3;
+}
