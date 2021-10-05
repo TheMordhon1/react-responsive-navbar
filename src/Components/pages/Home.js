@@ -4,7 +4,7 @@ import "./Pages.css";
 function Home() {
   return (
     <div className="HomePage">
-      <h1>Home Page</h1>
+      <h1 className="text-4xl font-bold">Home Page</h1>
     </div>
   );
 }

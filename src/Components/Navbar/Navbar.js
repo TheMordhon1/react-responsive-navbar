@@ -15,7 +15,7 @@ class Navbar extends Component {
     return (
       <nav className="NavbarItems">
         <Link to="/" className="navbar-logo">
-          <h1>
+          <h1 className="text-2xl">
             React <i className="fab fa-react"></i>
           </h1>
         </Link>
