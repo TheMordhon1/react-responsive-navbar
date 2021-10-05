@@ -16,6 +16,7 @@
   justify-self: start;
   margin-left: 20px;
   cursor: pointer;
+  text-decoration: none;
 }
 
 .fa-react {
